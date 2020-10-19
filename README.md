@@ -28,7 +28,7 @@ Parital Implementation:
 
 Get snap on postman:
 
-![Screenshot](Screenshot 2020-10-19 at 2.40.48 PM.png)
+![Screenshot](sc_appointy.png)
 
 
 
